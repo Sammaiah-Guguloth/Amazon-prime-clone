@@ -8,3 +8,6 @@ This project is a clone of the Amazon Prime landing page, created for HTML and C
 - This project was created by [ Sammaiah Guguloth].
 - Inspired by the Amazon Prime homepage.
 - All the Assets [ Images , Fonts , Content] are taken from the primevideo.com
+
+## Github Pages : 
+- https://sammaiah-guguloth.github.io/Amazon-prime-clone/
